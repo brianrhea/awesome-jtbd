@@ -21,7 +21,7 @@ Awesome Jobs to Be Done
 
 #### Books
 
-- [The Innovator's Dilemma](http://www.amazon.com/gp/product/0062060244/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062060244&linkCode=as2&tag=httpstwit071f-20) by [Clayton M. Christensen](http://www.claytonchristensen.com/). Focusing on _disruptive technology_, Christensen shows why most companies miss out on new waves of innovation. Whether in electronics or retailing, a successful company with established products will get pushed aside unless managers know when to abandon traditional business practices. Using the lessons of successes and failures from leading companies, The Innovator’s Dilemma presents a set of rules for capitalizing on the phenomenon of disruptive innovation.
+- *[The Innovator's Dilemma](http://www.amazon.com/gp/product/0062060244/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062060244&linkCode=as2&tag=httpstwit071f-20)* by [Clayton M. Christensen](http://www.claytonchristensen.com/). Focusing on _disruptive technology_, Christensen shows why most companies miss out on new waves of innovation.
 - [Jobs-to-be-Done Handbook](http://smile.amazon.com/Jobs---be-Done-Handbook-techniques-application/dp/1499339232/) by Chris Spiek, Bob Moesta.
 
 #### Podcasts
