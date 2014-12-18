@@ -21,8 +21,8 @@ Awesome Jobs to Be Done
 
 #### Books
 
-- *[The Innovator's Dilemma](http://www.amazon.com/gp/product/0062060244/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062060244&linkCode=as2&tag=httpstwit071f-20)* by [Clayton M. Christensen](http://www.claytonchristensen.com/). Focusing on _disruptive technology_, Christensen shows why most companies miss out on new waves of innovation.
-- [Jobs-to-be-Done Handbook](http://smile.amazon.com/Jobs---be-Done-Handbook-techniques-application/dp/1499339232/) by Chris Spiek, Bob Moesta.
+- **[The Innovator's Dilemma](http://www.amazon.com/gp/product/0062060244/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062060244&linkCode=as2&tag=httpstwit071f-20)** by [Clayton M. Christensen](http://www.claytonchristensen.com/). Focusing on _disruptive technology_, Christensen shows why most companies miss out on new waves of innovation.
+- **[Jobs-to-be-Done Handbook](http://smile.amazon.com/Jobs---be-Done-Handbook-techniques-application/dp/1499339232/)** by Chris Spiek, Bob Moesta.
 
 #### Podcasts
 - [Jobs-to-be-Done Radio](https://itunes.apple.com/us/podcast/jobs-to-be-done-radio/id499859427?mt=2) Download past episodes or subscribe to future episodes for free from Jobs-to-be-Done Radio by The Re-Wired Group on the iTunes Store.
