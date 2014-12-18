@@ -11,8 +11,6 @@ Awesome Jobs to Be Done List
 - [Courses](#courses)
 - [Conferences](#conferences)
 - [Articles](#articles)
-- [Mailing Lists](#mailing-lists)
-- [Tools](#tools)
 
 #### Sites
 - **[jobstobedone.org](http://jobstobedone.org/)** Podcast and other resources
@@ -32,7 +30,7 @@ Awesome Jobs to Be Done List
 - **[Buying a Car JTBD Interview](http://vimeo.com/81153746)**
 
 #### Courses
-- **[Mastering Jobs to Be Done Interviews](https://www.udemy.com/mastering-jobs-to-be-done-interviews/)** Quickly learn all of the tricks and techniques that go into conducting Jobs-to-be-Done interviews with consumers.
+- **[Mastering Jobs to Be Done Interviews](https://www.udemy.com/mastering-jobs-to-be-done-interviews/)** Udemy course
 
 #### Conferencess
 - **[Business of Software](http://businessofsoftware.org/)**
@@ -41,8 +39,3 @@ Awesome Jobs to Be Done List
 - **[Marketing Malpractice: The Cause and the Cure - HBR](https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure)** Marketing executives focus too much on ever-narrower demographic segments and ever-more-trivial product extensions. They should find out, instead, what jobs consumers need to get done.
 - **[Finding the Right Job For Your Product | MIT Sloan Management Review](http://sloanreview.mit.edu/article/finding-the-right-job-for-your-product/)** 
 - **[Clay Christensen’s Milkshake Marketing — HBS Working Knowledge](http://hbswk.hbs.edu/item/6496.html)** About 95 percent of new products fail. It's time for companies to look at products the way customers do: as a way to get a job done.
-
-
-#### Mailing Lists
-
-## Tools
