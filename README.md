@@ -35,7 +35,7 @@ Awesome Jobs to Be Done List
 #### Conferences
 - **[Business of Software](http://businessofsoftware.org/)**
 - **[The Switch Workshop. Presented by 37signals + The Rewired Group.](https://37signals.com/theswitchworkshop)** In the past, but recommend keeping your eyes and ears out for announcements
-- **[Events Calendar at jtbd.org](http://jobstobedone.org/topics/events/) Not well-maintained, but worth staying tuned
+- **[Events Calendar at jtbd.org](http://jobstobedone.org/topics/events/)** Not well-maintained, but worth staying tuned
 
 #### Articles
 - **[Marketing Malpractice: The Cause and the Cure - HBR](https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure)** Marketing executives focus too much on ever-narrower demographic segments and ever-more-trivial product extensions. They should find out, instead, what jobs consumers need to get done.
