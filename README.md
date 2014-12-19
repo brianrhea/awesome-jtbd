@@ -11,6 +11,7 @@ Awesome Jobs to Be Done List
 - [Courses](#courses)
 - [Conferences](#conferences)
 - [Articles](#articles)
+- [Twitter](#twitter)
 
 #### Sites
 - **[jobstobedone.org](http://jobstobedone.org/)** Podcast and other resources
@@ -27,6 +28,7 @@ Awesome Jobs to Be Done List
 - **[Jobs-to-be-Done Radio](https://itunes.apple.com/us/podcast/jobs-to-be-done-radio/id499859427?mt=2)** Download past episodes or subscribe to future episodes for free from Jobs-to-be-Done Radio by The Re-Wired Group on the iTunes Store.
 - **[Clayton Christensen on The Critical Path Podcast](http://5by5.tv/criticalpath/36)** Horace interviews his teacher Clay Christensen to discuss his new book, How Will You Measure Your Life. We discuss some of the concepts of learning, jobs to be done and approaches to self-disruption.
 - **[Bob Moesta on The Critical Path Podcast](http://5by5.tv/criticalpath/19)** The hiring and firing of milkshakes and candy bars
+- **[An interview with Ryan Singer - Inside Intercom](http://blog.intercom.io/an-interview-with-ryan-singer/)**
 
 #### Interviews
 > When you're first learning about JTBD, few things are as helpful as listening to real interviews so that conducting your own for the first time is less intimidating.
@@ -53,3 +55,19 @@ Awesome Jobs to Be Done List
 - **[The Iceberg of Jobs-to-be-Done | Teehan+Lax](http://www.teehanlax.com/blog/the-iceberg-of-jobs-to-be-done/)** The most important thing you can do is validate that the problem you are trying to solve is meaningful
 - **[Designing Features Using Jobs To Be Done](http://blog.intercom.io/using-job-stories-design-features-ui-ux/)**
 - **[Why Jobs to be Done interviews don't "Lead the Witness"](http://blog.marksweep.com/post/60731446972/why-jobs-to-be-done-interviews-dont-lead-the)**
+- **[This is not a map - Inside Intercom](http://blog.intercom.io/shareable-map/)** "A worse map does a better job."
+
+#### Twitter
+> Follow these people
+
+- **[Clayton Christensen (@claychristensen) | Twitter](https://twitter.com/claychristensen)**
+- **[Bob Moesta (@bmoesta) | Twitter](https://twitter.com/bmoesta)** 
+- **[Ryan Singer (@rjs) | Twitter](https://twitter.com/rjs)** 
+- **[Jason Fried (@jasonfried) | Twitter](https://twitter.com/jasonfried)** 
+- **[Chris Spiek (@chriscbs) | Twitter](https://twitter.com/chriscbs)** 
+- **[Mike Rivera (@heavywinter) | Twitter](https://twitter.com/heavywinter)** 
+- **[Tony Ulwick (@Ulwick) | Twitter](https://twitter.com/Ulwick)**
+- **[Jobs-to-be-Done (@jobstobedone) | Twitter](https://twitter.com/jobstobedone)** 
+- **[Ervin Fowlkes (@ervinfowlkes) | Twitter](https://twitter.com/ervinfowlkes)**
+- **[Des Traynor (@destraynor) | Twitter](https://twitter.com/destraynor)** 
+- **[Paul Adams (@Padday) | Twitter](https://twitter.com/Padday)** 
