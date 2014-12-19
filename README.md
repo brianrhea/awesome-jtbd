@@ -60,14 +60,14 @@ Awesome Jobs to Be Done List
 #### Twitter
 > Follow these people
 
-- **[Clayton Christensen (@claychristensen) | Twitter](https://twitter.com/claychristensen)**
-- **[Bob Moesta (@bmoesta) | Twitter](https://twitter.com/bmoesta)** 
-- **[Ryan Singer (@rjs) | Twitter](https://twitter.com/rjs)** 
-- **[Jason Fried (@jasonfried) | Twitter](https://twitter.com/jasonfried)** 
-- **[Chris Spiek (@chriscbs) | Twitter](https://twitter.com/chriscbs)** 
-- **[Mike Rivera (@heavywinter) | Twitter](https://twitter.com/heavywinter)** 
-- **[Tony Ulwick (@Ulwick) | Twitter](https://twitter.com/Ulwick)**
-- **[Jobs-to-be-Done (@jobstobedone) | Twitter](https://twitter.com/jobstobedone)** 
-- **[Ervin Fowlkes (@ervinfowlkes) | Twitter](https://twitter.com/ervinfowlkes)**
-- **[Des Traynor (@destraynor) | Twitter](https://twitter.com/destraynor)** 
-- **[Paul Adams (@Padday) | Twitter](https://twitter.com/Padday)** 
+- **[Clayton Christensen](https://twitter.com/claychristensen)** (@claychristensen)
+- **[Bob Moesta](https://twitter.com/bmoesta)** (@bmoesta)
+- **[Ryan Singer](https://twitter.com/rjs)** (@rjs)
+- **[Jason Fried](https://twitter.com/jasonfried)** (@jasonfried)
+- **[Chris Spiek](https://twitter.com/chriscbs)** (@chriscbs)
+- **[Mike Rivera](https://twitter.com/heavywinter)** (@heavywinter)
+- **[Tony Ulwick](https://twitter.com/Ulwick)** (@Ulwick)
+- **[Jobs-to-be-Done](https://twitter.com/jobstobedone)** (@jobstobedone)
+- **[Ervin Fowlkes](https://twitter.com/ervinfowlkes)** (@ervinfowlkes)
+- **[Des Traynor](https://twitter.com/destraynor)** (@destraynor)
+- **[Paul Adams](https://twitter.com/Padday)** (@Padday)
