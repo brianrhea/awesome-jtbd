@@ -7,6 +7,7 @@ Awesome Jobs to Be Done List
 - [Sites](#sites)
 - [Books](#books)
 - [Podcasts](#podcasts)
+- [Videos](#videos)
 - [Interviews](#interviews)
 - [Courses](#courses)
 - [Conferences](#conferences)
@@ -29,6 +30,10 @@ Awesome Jobs to Be Done List
 - **[Clayton Christensen on The Critical Path Podcast](http://5by5.tv/criticalpath/36)** Horace interviews his teacher Clay Christensen to discuss his new book, How Will You Measure Your Life. We discuss some of the concepts of learning, jobs to be done and approaches to self-disruption.
 - **[Bob Moesta on The Critical Path Podcast](http://5by5.tv/criticalpath/19)** The hiring and firing of milkshakes and candy bars
 - **[An interview with Ryan Singer - Inside Intercom](http://blog.intercom.io/an-interview-with-ryan-singer/)**
+
+#### Videos
+
+- **[Understanding the Job](https://www.youtube.com/watch?v=f84LymEs67Y)** The classic "milkshake" story
 
 #### Interviews
 > When you're first learning about JTBD, few things are as helpful as listening to real interviews so that conducting your own for the first time is less intimidating.
