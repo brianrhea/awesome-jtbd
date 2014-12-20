@@ -21,7 +21,7 @@ Awesome Jobs to Be Done List
 
 #### Books
 
-- **[The Innovator's Dilemma](http://www.amazon.com/gp/product/0062060244/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062060244&linkCode=as2&tag=httpstwit071f-20)** by [Clayton M. Christensen](http://www.claytonchristensen.com/). Focusing on _disruptive technology_, Christensen shows why most companies miss out on new waves of innovation.
+- **[The Innovator's Dilemma](http://www.amazon.com/gp/product/0062060244/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062060244&linkCode=as2&tag=httpstwit071f-20)** by [Clayton M. Christensen](http://www.claytonchristensen.com/). Focusing on disruptive technology, Christensen shows why most companies miss out on new waves of innovation.
 - **[Jobs-to-be-Done Handbook](http://smile.amazon.com/Jobs---be-Done-Handbook-techniques-application/dp/1499339232/)** by Chris Spiek, Bob Moesta.
 
 #### Podcasts
@@ -56,6 +56,8 @@ Awesome Jobs to Be Done List
 - **[Designing Features Using Jobs To Be Done](http://blog.intercom.io/using-job-stories-design-features-ui-ux/)**
 - **[Why Jobs to be Done interviews don't "Lead the Witness"](http://blog.marksweep.com/post/60731446972/why-jobs-to-be-done-interviews-dont-lead-the)**
 - **[This is not a map - Inside Intercom](http://blog.intercom.io/shareable-map/)** "A worse map does a better job."
+- **[Replacing The User Story With The Job Story — Jobs To Be Done — Medium](https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27)** Too many assumptions are dangerous
+- **[The forces at work when choosing a product](http://www.elezea.com/2013/11/progress-making-forces/)** A better design of the Forces diagram than the one used by Rewired Group
 
 #### Twitter
 > Follow these people
