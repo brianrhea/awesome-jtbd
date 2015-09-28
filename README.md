@@ -48,6 +48,7 @@ Awesome Jobs to Be Done List
 
 - **[Vertical Timeline with Integrated Forces](https://medium.com/the-job-to-be-done/jobs-to-be-done-interview-template-30421972ab2a)**
 - **[Simplified Timeline](http://rossbelmont.com/post/90905074208/jtbd-timeline-template)**
+- **[Intro Script and Timeline](https://medium.com/the-job-to-be-done/a-script-to-kickstart-your-jobs-to-be-done-interviews-2768164761d7)**
 - **[Basic Timeline Structure from Rewired Group](http://jobstobedone.org/wp-content/uploads/2013/01/jtbd-timeline.png)**
 
 #### Courses
