@@ -9,6 +9,7 @@ Awesome Jobs to Be Done List
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Interviews](#interviews)
+- [Templates](#templates)
 - [Courses](#courses)
 - [Conferences](#conferences)
 - [Articles](#articles)
@@ -42,6 +43,13 @@ Awesome Jobs to Be Done List
 - **[Buying a Mattress](http://jobstobedone.org/radio/the-mattress-interview-part-one/)**
 - **[Buying a Smartphone](http://jobstobedone.org/radio/iphone-jobs-to-be-done-interview/)**
 
+#### Templates
+> Examples of Timeline and Forces templates to use during your interviews.
+
+- **[Vertical Timeline with Integrated Forces](https://medium.com/the-job-to-be-done/jobs-to-be-done-interview-template-30421972ab2a)**
+- **[Simplified Timeline](http://rossbelmont.com/post/90905074208/jtbd-timeline-template)**
+- **[Basic Timeline Structure from Rewired Group](http://jobstobedone.org/wp-content/uploads/2013/01/jtbd-timeline.png)**
+
 #### Courses
 - **[Mastering Jobs to Be Done Interviews](https://www.udemy.com/mastering-jobs-to-be-done-interviews/)** Udemy course
 
@@ -52,7 +60,7 @@ Awesome Jobs to Be Done List
 
 #### Articles
 - **[Marketing Malpractice: The Cause and the Cure - HBR](https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure)** Marketing executives focus too much on ever-narrower demographic segments and ever-more-trivial product extensions. They should find out, instead, what jobs consumers need to get done.
-- **[Finding the Right Job For Your Product | MIT Sloan Management Review](http://sloanreview.mit.edu/article/finding-the-right-job-for-your-product/)** 
+- **[Finding the Right Job For Your Product | MIT Sloan Management Review](http://sloanreview.mit.edu/article/finding-the-right-job-for-your-product/)**
 - **[Clay Christensen’s Milkshake Marketing — HBS Working Knowledge](http://hbswk.hbs.edu/item/6496.html)** About 95 percent of new products fail. It's time for companies to look at products the way customers do: as a way to get a job done.
 - **[Technique 1 - Jobs to be Done | The Innovator's Toolkit](http://innovatorstoolkit.com/content/technique-1-jobs-be-done)**
 - **[Interviews, Timelines, Forces, Job Stories — what’s the difference?](https://medium.com/the-job-to-be-done/interviews-timelines-forces-job-stories-whats-the-difference-a90949d6cb0a)**
