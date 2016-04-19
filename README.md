@@ -73,6 +73,7 @@ Awesome Jobs to Be Done List
 - **[Replacing The User Story With The Job Story — Jobs To Be Done — Medium](https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27)** Too many assumptions are dangerous
 - **[The forces at work when choosing a product](http://www.elezea.com/2013/11/progress-making-forces/)** A better design of the Forces diagram than the one used by Rewired Group
 - **[Personas and Jobs To Be Done — Medium](https://medium.com/@heavywinter/personas-and-jobs-to-be-done-2da5bff8870b)** Thoughts on the growing divide between jobs to be done and personas
+- **[A New Framework for Customer Segmentation - HBR](https://hbr.org/2013/06/a-new-framework-for-customer-s/)** How the “jobs done” segmentation works
 
 #### Twitter
 > Follow these people
@@ -90,3 +91,4 @@ Awesome Jobs to Be Done List
 - **[Ervin Fowlkes](https://twitter.com/ervinfowlkes)** (@ervinfowlkes)
 - **[Des Traynor](https://twitter.com/destraynor)** (@destraynor)
 - **[Paul Adams](https://twitter.com/Padday)** (@Padday)
+- **[Dr. Marie Taillard](https://twitter.com/marietaillard)** (@marietaillard)
