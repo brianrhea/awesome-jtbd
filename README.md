@@ -74,6 +74,7 @@ Awesome Jobs to Be Done List
 - **[The forces at work when choosing a product](http://www.elezea.com/2013/11/progress-making-forces/)** A better design of the Forces diagram than the one used by Rewired Group
 - **[Personas and Jobs To Be Done — Medium](https://medium.com/@heavywinter/personas-and-jobs-to-be-done-2da5bff8870b)** Thoughts on the growing divide between jobs to be done and personas
 - **[A New Framework for Customer Segmentation - HBR](https://hbr.org/2013/06/a-new-framework-for-customer-s/)** How the “jobs done” segmentation works
+- **[This Causes People to Purchase - Medium](https://medium.com/the-job-to-be-done/this-is-what-causes-people-to-purchase-a06abcbd4cd7#.ep7tas16b)** JTBD is that simple. But, it’s also that complicated.
 
 #### Twitter
 > Follow these people
