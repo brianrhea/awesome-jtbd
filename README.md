@@ -53,7 +53,7 @@ Awesome Jobs to Be Done List
 - **[Basic Timeline Structure from Rewired Group](http://jobstobedone.org/wp-content/uploads/2013/01/jtbd-timeline.png)**
 
 #### Courses
-- **[Mastering Jobs to Be Done Interviews](https://www.udemy.com/mastering-jobs-to-be-done-interviews/)** Udemy course
+- **[Mastering Jobs to Be Done Interviews](http://learn.jobstobedone.org/courses/JTBDinterviews)** online course
 
 #### Conferences
 - **[Business of Software](http://businessofsoftware.org/)**
