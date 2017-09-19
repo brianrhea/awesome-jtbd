@@ -35,7 +35,7 @@ Awesome Jobs to Be Done List
 
 #### Videos
 
-- **[Understanding the Job](https://www.youtube.com/watch?v=f84LymEs67Y)** The classic "milkshake" story
+- **[Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms)** The classic "milkshake" story
 
 #### Interviews
 > When you're first learning about JTBD, few things are as helpful as listening to real interviews so that conducting your own for the first time is less intimidating.
