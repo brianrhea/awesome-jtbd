@@ -1,4 +1,4 @@
-Awesome Jobs to Be Done List
+# Awesome Jobs to Be Done List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ======================
 > A collection of all things Jobs to Be Done. Inspired by 'awesome-*' repos. PRs welcome. Add to the awesome.
 
@@ -28,7 +28,7 @@ Awesome Jobs to Be Done List
 - **[Intercom on Jobs to Be Done](https://www.intercom.io/books/jobs-to-be-done)** E-book by the team at Intercom
 - **[When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com/)** E-book by Alan Klement covering both theory and practical tools for becoming an effective JTBD practitioner
 - **[Competing Against Luck](https://smile.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)** Clayton Christensen's take on JTBD theory and how it impacts a company's ability to innovate
-- **[Jobs to Be Done: A Roadmap for Customer-Centered Innovation](https://smile.amazon.com/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032)** 
+- **[Jobs to Be Done: A Roadmap for Customer-Centered Innovation](https://smile.amazon.com/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032)**
 
 
 #### Podcasts
