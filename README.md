@@ -26,7 +26,6 @@
 - **[The Innovator's Dilemma](http://www.amazon.com/gp/product/0062060244/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0062060244&linkCode=as2&tag=httpstwit071f-20)** by [Clayton M. Christensen](http://www.claytonchristensen.com/). Focusing on disruptive technology, Christensen shows why most companies miss out on new waves of innovation.
 - **[Jobs-to-be-Done Handbook](http://smile.amazon.com/Jobs---be-Done-Handbook-techniques-application/dp/1499339232/)** by Chris Spiek, Bob Moesta.
 - **[Intercom on Jobs to Be Done](https://www.intercom.io/books/jobs-to-be-done)** E-book by the team at Intercom
-- **[When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com/)** E-book by Alan Klement covering both theory and practical tools for becoming an effective JTBD practitioner
 - **[Competing Against Luck](https://smile.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)** Clayton Christensen's take on JTBD theory and how it impacts a company's ability to innovate
 - **[Jobs to Be Done: A Roadmap for Customer-Centered Innovation](https://smile.amazon.com/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032)**
 
@@ -91,7 +90,6 @@
 - **[Chris Spiek](https://twitter.com/chriscbs)** (@chriscbs)
 - **[Tony Ulwick](https://twitter.com/Ulwick)** (@Ulwick)
 - **[David Wu](https://twitter.com/marksweep)** (@marksweep)
-- **[Alan Klement](https://twitter.com/alanklement)** (@alanklement)
 - **[Mike Rivera](https://twitter.com/heavywinter)** (@heavywinter)
 - **[Jobs-to-be-Done](https://twitter.com/jobstobedone)** (@jobstobedone)
 - **[Ervin Fowlkes](https://twitter.com/ervinfowlkes)** (@ervinfowlkes)
